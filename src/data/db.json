@@ -1,0 +1,2021 @@
+{
+  "PgProgrammes": [
+    {
+      "Faculty": "FACULTY OF AGRICULTURE",
+      "departments": [
+        {
+          "title": "Department Of Agricultural Economics And Extension",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Phil/Ph.D Agricultural Economics with specialisation in Livelihood and Natural Resources Economics"
+            },
+            {
+              "id": 2,
+              "course": "M.Phil/Ph.D Agricultural Economics"
+            },
+            {
+              "id": 3,
+              "course": "M.Sc Agricultural Economics with specialisation in Livelihood and Natural Resources Economics"
+            },
+            {
+              "id": 4,
+              "course": "M.Sc Agricultural Economics"
+            },
+            {
+              "id": 5,
+              "course": "M.Sc Agricultural Extension"
+            },
+            {
+              "id": 6,
+              "course": "Ph.D Agricultural Economics with specialisation in Livelihood and Natural Resources Economics"
+            },
+            {
+              "id": 7,
+              "course": "Ph.D Agricultural Economics"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Agronomy",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Phil/Ph.D Agronomy with specialisation in Crops and Cropping Systems in the Dry Lands"
+            },
+            {
+              "id": 2,
+              "course": "M.Phil/Ph.D Agronomy"
+            },
+            {
+              "id": 3,
+              "course": "M.Sc Agronomy with specialisation in Crops and Cropping Systems in the Dry Lands"
+            },
+            {
+              "id": 4,
+              "course": "M.Sc Agronomy"
+            },
+            {
+              "id": 5,
+              "course": "M.Sc Agronomy with specialisation in Plant Genetics and Breeding"
+            },
+            {
+              "id": 5,
+              "course": "Ph.D Agronomy with specialisation in Crops and Cropping Systems in the Dry Lands"
+            },
+            {
+              "id": 5,
+              "course": "Ph.D Agronomy"
+            },
+            {
+              "id": 5,
+              "course": "Postgraduate Diploma in Horticulture [PGDH]"
+            },
+            {
+              "id": 5,
+              "course": "Postgraduate Diploma in Irrigation Agronomy [PGDIA]"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Animal Science",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Phil/Ph.D Animal Science with specialisation in Animal Breeding and Genetics"
+            },
+            {
+              "id": 2,
+              "course": "M.Phil/Ph.D Animal Science with specialisation in Animal Reproduction and Physiology"
+            },
+            {
+              "id": 3,
+              "course": "M.Phil/Ph.D Animal Science with specialisation in Animal Products and Processing"
+            },
+            {
+              "id": 4,
+              "course": "M.Phil/Ph.D Animal Science with specialisation in Livestock Production and Range Management in African Drylands"
+            },
+            {
+              "id": 5,
+              "course": "M.Phil/Ph.D Animal Science with specialisation in Monogastric Nutrition"
+            },
+            {
+              "id": 6,
+              "course": "M.Phil/Ph.D Animal Science with specialisation in Pasture and Range Management"
+            },
+            {
+              "id": 7,
+              "course": "M.Phil/Ph.D Animal Science with specialisation in Ruminant Nutrition"
+            },
+            {
+              "id": 8,
+              "course": "M.Phil/Ph.D Dryland Agriculture with specialisation in Range and Livestock Management"
+            },
+            {
+              "id": 9,
+              "course": "M.Sc Animal Science with specialisation in Animal Breeding and Genetics"
+            },
+            {
+              "id": 10,
+              "course": "M.Sc Animal Science with specialisation in Animal Products and Processing"
+            },
+            {
+              "id": 11,
+              "course": "M.Sc Animal Science with specialisation in Animal Reproduction and Physiology"
+            },
+            {
+              "id": 12,
+              "course": "M.Sc Animal Science with specialisation in Livestock Production and Range Management in African Drylands"
+            },
+            {
+              "id": 13,
+              "course": "M.Sc Animal Science with specialisation in Monogastric Nutrition"
+            },
+            {
+              "id": 14,
+              "course": "M.Sc Animal Science with specialisation in Pasture and Range Management"
+            },
+            {
+              "id": 15,
+              "course": "M.Sc Animal Science with specialisation in Ruminant Nutrition"
+            },
+            {
+              "id": 16,
+              "course": "M.Sc Dryland Agriculture with specialisation in Range and Livestock Management"
+            },
+            {
+              "id": 17,
+              "course": "Ph.D Animal Science with specialisation in Animal Breeding and Genetics"
+            },
+            {
+              "id": 18,
+              "course": "Ph.D Animal Science with specialisation in Animal Products and Processing"
+            },
+            {
+              "id": 19,
+              "course": "Ph.D Animal Science with specialisation in Animal Reproduction and Physiology"
+            },
+            {
+              "id": 20,
+              "course": "Ph.D Animal Science with specialisation in Livestock Production and Range Management in African Drylands"
+            },
+            {
+              "id": 21,
+              "course": "Ph.D Animal Science with specialisation in Monogastric Nutrition"
+            },
+            {
+              "id": 22,
+              "course": "Ph.D Animal Science with specialisation in Pasture and Range Management"
+            },
+            {
+              "id": 23,
+              "course": "Ph.D Animal Science with specialisation in Ruminant Nutrition"
+            },
+            {
+              "id": 24,
+              "course": "Ph.D Dryland Agriculture with specialisation in Range and Livestock Management"
+            },
+            {
+              "id": 25,
+              "course": "Postgraduate Diploma in Animal Science [PGDAS]"
+            },
+            {
+              "id": 26,
+              "course": "Postgraduate Diploma in Dryland Agriculture [PGDDA]"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Crop Protection",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Sc Crop Protection with specialisation in Agricultural Entomology"
+            },
+            {
+              "id": 2,
+              "course": "M.Sc Crop Protection with specialisation in Phytobacteriology"
+            },
+            {
+              "id": 3,
+              "course": "M.Sc Crop Protection with specialisation in Phytomycology"
+            },
+            {
+              "id": 4,
+              "course": "M.Sc Crop Protection with specialisation in Phytonematology"
+            },
+            {
+              "id": 5,
+              "course": "M.Sc Crop Protection with specialisation in Phytovirology"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Food Science And Technology",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Sc. Food Science and Technology"
+            },
+            {
+              "id": 2,
+              "course": "Postgraduate Diploma in Food Science and Technology"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Soil Science",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Phil/Ph.D Soil Science"
+            },
+            {
+              "id": 2,
+              "course": "M.Sc Soil Science"
+            },
+            {
+              "id": 3,
+              "course": "Ph.D Soil Science"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Faculty": "FACULTY OF ALLIED HEALTH SCIENCES",
+      "departments": [
+        {
+          "title": "Department Of Medical Laboratory Science",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Phil/Ph.D Medical Laboratory Science with specialisation in Chemical Pathology/Clinical Chemistry"
+            },
+            {
+              "id": 2,
+              "course": "M.Phil/Ph.D Medical Laboratory Science with specialisation in Haematology and Blood Transfusion Sciences"
+            },
+            {
+              "id": 3,
+              "course": "M.Phil/Ph.D Medical Laboratory Science with specialisation in Histopathology"
+            },
+            {
+              "id": 4,
+              "course": "M.Phil/Ph.D Medical Laboratory Science with specialisation in Immunology"
+            },
+            {
+              "id": 5,
+              "course": "M.Phil/Ph.D Medical Laboratory Science with specialisation in Medical Bacteriology"
+            },
+            {
+              "id": 6,
+              "course": "M.Phil/Ph.D Medical Laboratory Science with specialisation in Medical Mycology"
+            },
+            {
+              "id": 7,
+              "course": "M.Phil/Ph.D Medical Laboratory Science with specialisation in Medical Parasitology and Entomology"
+            },
+            {
+              "id": 8,
+              "course": "M.Phil/Ph.D Medical Laboratory Science with specialisation in Medical Virology"
+            },
+            {
+              "id": 9,
+              "course": "M.Sc Medical Laboratory Science with specialisation in Chemical Pathology/Clinical Chemistry"
+            },
+            {
+              "id": 10,
+              "course": "M.Sc Medical Laboratory Science with specialisation in Haematology and Blood Transfusion Sciences"
+            },
+            {
+              "id": 11,
+              "course": "M.Sc Medical Laboratory Science with specialisation in Histopathology"
+            },
+            {
+              "id": 12,
+              "course": "M.Sc Medical Laboratory Science with specialisation in Immunology"
+            },
+            {
+              "id": 13,
+              "course": "M.Sc Medical Laboratory Science with specialisation in Medical Bacteriology"
+            },
+            {
+              "id": 14,
+              "course": "M.Sc Medical Laboratory Science with specialisation in Medical Mycology"
+            },
+            {
+              "id": 15,
+              "course": "M.Sc Medical Laboratory Science with specialisation in Medical Parasitology and Entomology"
+            },
+            {
+              "id": 16,
+              "course": "M.Sc Medical Laboratory Science with specialisation in Medical Virology"
+            },
+            {
+              "id": 17,
+              "course": "Master of Medical Laboratory Management"
+            },
+            {
+              "id": 18,
+              "course": "Master of Medical Laboratory Science with specialisation in Chemical Pathology"
+            },
+            {
+              "id": 19,
+              "course": "Master of Medical Laboratory Science with specialisation in Haematology and Blood Transfusion Sciences"
+            },
+            {
+              "id": 20,
+              "course": "Master of Medical Laboratory Science with specialisation in Histopathology"
+            },
+            {
+              "id": 21,
+              "course": "Master of Medical Laboratory Science with specialisation in Medical Microbiology"
+            },
+            {
+              "id": 22,
+              "course": "Ph.D Medical Laboratory Science with specialisation in Chemical Pathology/Clinical Chemistry"
+            },
+            {
+              "id": 23,
+              "course": "Ph.D Medical Laboratory Science with specialisation in Haematology and Blood Transfusion Sciences"
+            },
+            {
+              "id": 24,
+              "course": "Ph.D Medical Laboratory Science with specialisation in Histopathology"
+            },
+            {
+              "id": 25,
+              "course": "Ph.D Medical Laboratory Science with specialisation in Immunology"
+            },
+            {
+              "id": 26,
+              "course": "Ph.D Medical Laboratory Science with specialisation in Medical Bacteriology"
+            },
+            {
+              "id": 27,
+              "course": "Ph.D Medical Laboratory Science with specialisation in Medical Mycology"
+            },
+            {
+              "id": 28,
+              "course": "Ph.D Medical Laboratory Science with specialisation in Medical Parasitology and Entomology"
+            },
+            {
+              "id": 29,
+              "course": "Ph.D Medical Laboratory Science with specialisation in Medical Virology"
+            },
+            {
+              "id": 30,
+              "course": "Postgraduate Diploma in Medical Laboratory Science with specialisation in Chemical Pathology/Clinical Chemistry"
+            },
+            {
+              "id": 31,
+              "course": "Postgraduate Diploma in Medical Laboratory Science with specialisation in Haematology and Blood Transfusion Sciences"
+            },
+            {
+              "id": 32,
+              "course": "Postgraduate Diploma in Medical Laboratory Science with specialisation in Histopathology"
+            },
+            {
+              "id": 33,
+              "course": "Postgraduate Diploma in Medical Laboratory Science with specialisation in Medical Microbiology"
+            },
+            {
+              "id": 34,
+              "course": "Postgraduate Diploma in Medical Laboratory Science"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Medical Radiography",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Sc Medical Radiography with specialisation in Medical Imaging"
+            },
+            {
+              "id": 2,
+              "course": "M.Sc Medical Radiography with specialisation in Radiation Protection"
+            },
+            {
+              "id": 3,
+              "course": "Ph.D Medical Radiography"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Nursing Science",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Phil/Ph.D Nursing Science with specialisation in Community Health Nursing"
+            },
+            {
+              "id": 2,
+              "course": "M.Phil/Ph.D Nursing Science with specialisation in Maternal and Child Health Nursing"
+            },
+            {
+              "id": 3,
+              "course": "M.Phil/Ph.D Nursing Science with specialisation in Medical Surgical Nursing"
+            },
+            {
+              "id": 4,
+              "course": "M.Phil/Ph.D Nursing Science with specialisation in Mental Health and Psychiatric Nursing"
+            },
+            {
+              "id": 5,
+              "course": "M.Phil/Ph.D Nursing Science with specialisation in Nursing Education"
+            },
+            {
+              "id": 6,
+              "course": "M.Sc Community Health Nursing"
+            },
+            {
+              "id": 7,
+              "course": "M.Sc Maternal and Child Health Nursing"
+            },
+            {
+              "id": 8,
+              "course": "M.Sc Medical Surgical Nursing"
+            },
+            {
+              "id": 9,
+              "course": "M.Sc Mental Health and Psychiatric Nursing"
+            },
+            {
+              "id": 10,
+              "course": "M.Sc Nursing Administration"
+            },
+            {
+              "id": 11,
+              "course": "M.Sc Nursing Education"
+            },
+            {
+              "id": 12,
+              "course": "M.Sc. Public Health Nursing and Policy"
+            },
+            {
+              "id": 13,
+              "course": "Ph.D Nursing Science with specialisation in Community Health Nursing"
+            },
+            {
+              "id": 14,
+              "course": "Ph.D Nursing Science with specialisation in Maternal and Child Health Nursing"
+            },
+            {
+              "id": 15,
+              "course": "Ph.D Nursing Science with specialisation in Medical Surgical Nursing"
+            },
+            {
+              "id": 16,
+              "course": "Ph.D Nursing Science with specialisation in Mental Health and Psychiatric Nursing"
+            },
+            {
+              "id": 17,
+              "course": "Ph.D Nursing Science with specialisation in Nursing Administration"
+            },
+            {
+              "id": 18,
+              "course": "Ph.D Nursing Science with specialisation in Nursing Education"
+            },
+            {
+              "id": 19,
+              "course": "Postgraduate Diploma in Nursing [PGDN]"
+            },
+            {
+              "id": 20,
+              "course": "Postgraduate Diploma in Nursing Education [PGDNE]"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Physiotherapy",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Phil/Ph.D Physiotherapy with specialisation in Cardiopulmonary Physiotherapy"
+            },
+            {
+              "id": 2,
+              "course": "M.Phil/Ph.D Physiotherapy with specialisation in Community Physiotherapy"
+            },
+            {
+              "id": 3,
+              "course": "M.Phil/Ph.D Physiotherapy with specialisation in Neurology"
+            },
+            {
+              "id": 4,
+              "course": "M.Phil/Ph.D Physiotherapy"
+            },
+            {
+              "id": 5,
+              "course": "M.Phil/Ph.D Physiotherapy with specialisation in Orthopedic and Sports"
+            },
+            {
+              "id": 6,
+              "course": "M.Sc Physiotherapy with specialisation in Cardiopulmonary"
+            },
+            {
+              "id": 7,
+              "course": "M.Sc Physiotherapy with specialisation in Neurology"
+            },
+            {
+              "id": 8,
+              "course": "M.Sc Physiotherapy with specialisation in Orthopedics and Sports"
+            },
+            {
+              "id": 9,
+              "course": "M.Sc Physiotherapy with specialisation in Women's Health Physiotherapy"
+            },
+            {
+              "id": 10,
+              "course": "Master of Physiotherapy with specialisation in Cardiopulmonary Physiotherapy [MPT]"
+            },
+            {
+              "id": 11,
+              "course": "Master of Physiotherapy with specialisation in Community Physiotherapy [MPT]"
+            },
+            {
+              "id": 12,
+              "course": "Master of Physiotherapy with specialisation in Neurological Physiotherapy [MPT]"
+            },
+            {
+              "id": 13,
+              "course": "Master of Physiotherapy with specialisation in Orthopedic Physiotherapy [MPT]"
+            },
+            {
+              "id": 14,
+              "course": "Master of Physiotherapy with specialisation in Pediatric Physiotherapy [MPT]"
+            },
+            {
+              "id": 15,
+              "course": "Master of Physiotherapy with specialisation in Physiotherapy in Women's Health [MPT]"
+            },
+            {
+              "id": 16,
+              "course": "Master of Physiotherapy with specialisation in Sports Physiotherapy [MPT]"
+            },
+            {
+              "id": 17,
+              "course": "Ph.D Physiotherapy with specialisation in Cardiopulmonary Physiotherapy"
+            },
+            {
+              "id": 18,
+              "course": "Ph.D Physiotherapy with specialisation in Geriatrics Physiotherapy"
+            },
+            {
+              "id": 19,
+              "course": "Ph.D Physiotherapy with specialisation in Neurology"
+            },
+            {
+              "id": 20,
+              "course": "Ph.D Physiotherapy with specialisation in Orthopedic and Sports"
+            },
+            {
+              "id": 21,
+              "course": "Ph.D Physiotherapy with specialisation in Pediatrics Physiotherapy"
+            },
+            {
+              "id": 22,
+              "course": "Ph.D Physiotherapy with specialisation in Physiotherapy in Women's Health"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Faculty": "FACULTY OF ARTS AND ISLAMIC STUDIES",
+      "departments": [
+        {
+          "title": "Department Of Arabic",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.A Arabic with specialisation in Language"
+            },
+            {
+              "id": 2,
+              "course": "M.A Arabic with specialisation in Literature"
+            },
+            {
+              "id": 3,
+              "course": "M.Phil/Ph.D Arabic with specialisation in Language"
+            },
+            {
+              "id": 4,
+              "course": "M.Phil/Ph.D Arabic with specialisation in Literature"
+            },
+            {
+              "id": 5,
+              "course": "Ph.D Arabic with specialisation in Language"
+            },
+            {
+              "id": 6,
+              "course": "Ph.D Arabic with specialisation in Literature"
+            },
+            {
+              "id": 7,
+              "course": "Postgraduate Diploma in Arabic [PGDA]"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Medical Radiography",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Sc Medical Radiography with specialisation in Medical Imaging"
+            },
+            {
+              "id": 2,
+              "course": "M.Sc Medical Radiography with specialisation in Radiation Protection"
+            },
+            {
+              "id": 3,
+              "course": "Ph.D Medical Radiography"
+            }
+          ]
+        },
+        {
+          "title": "Department Of English And Literary Studies",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.A English with specialisation in Language"
+            },
+            {
+              "id": 2,
+              "course": "M.A English with specialisation in Literature"
+            },
+            {
+              "id": 3,
+              "course": "M.Phil/Ph.D English with specialisation in Language"
+            },
+            {
+              "id": 4,
+              "course": "M.Phil/Ph.D English with specialisation in Literature"
+            },
+            {
+              "id": 5,
+              "course": "Ph.D English with specialisation in Language"
+            },
+            {
+              "id": 6,
+              "course": "Ph.D English with specialisation in Literature"
+            }
+          ]
+        },
+        {
+          "title": "Department Of History",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.A History"
+            },
+            {
+              "id": 2,
+              "course": "M.Phil/Ph.D History"
+            },
+            {
+              "id": 3,
+              "course": "Masters in Development Studies [MDS]"
+            },
+            {
+              "id": 4,
+              "course": "Ph.D History"
+            },
+            {
+              "id": 5,
+              "course": "Postgraduate Diploma in Development Studies [PGDDS]"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Islamic Studies",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.A Islamic Studies"
+            },
+            {
+              "id": 2,
+              "course": "M.Phil/Ph.D Islamic Studies"
+            },
+            {
+              "id": 3,
+              "course": "Ph.D Islamic Studies"
+            },
+            {
+              "id": 4,
+              "course": "Postgraduate Diploma in Islamic Studies and Shariah [PGDIS]"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Linguistics And Foreign Languages",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.A French with specialisation in Language"
+            },
+            {
+              "id": 2,
+              "course": "M.A French with specialisation in Literature"
+            },
+            {
+              "id": 3,
+              "course": "M.A Linguistics"
+            },
+            {
+              "id": 4,
+              "course": "M.Phil/Ph.D French with specialisation in Language"
+            },
+            {
+              "id": 5,
+              "course": "M.Phil/Ph.D French with specialisation in Literature"
+            },
+            {
+              "id": 6,
+              "course": "M.Phil/Ph.D Linguistics"
+            },
+            {
+              "id": 7,
+              "course": "Ph.D Linguistics"
+            },
+            {
+              "id": 8,
+              "course": "Ph.D French with specialisation in Language"
+            },
+            {
+              "id": 9,
+              "course": "Ph.D French with specialisation in Literature"
+            },
+            {
+              "id": 10,
+              "course": "Postgraduate Diploma in Linguistics [PGDL]"
+            },
+            {
+              "id": 11,
+              "course": "Postgraduate Diploma in Translation [PGDT]"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Nigerian Languages",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.A Hausa with specialisation in Culture"
+            },
+            {
+              "id": 2,
+              "course": "M.A Hausa with specialisation in Language"
+            },
+            {
+              "id": 3,
+              "course": "M.A Hausa with specialisation in Literature"
+            },
+            {
+              "id": 4,
+              "course": "Ph.D Hausa with specialisation in Culture"
+            },
+            {
+              "id": 5,
+              "course": "Ph.D Hausa with specialisation in Language"
+            },
+            {
+              "id": 6,
+              "course": "Ph.D Hausa with specialisation in Literature"
+            },
+            {
+              "id": 7,
+              "course": "Postgraduate Diploma in Hausa Studies [PGDHS]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Faculty": "FACULTY OF BASIC MEDICAL SCIENCES",
+      "departments": [
+        {
+          "title": "Department Of Anatomy",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Sc Anatomy"
+            },
+            {
+              "id": 2,
+              "course": "Ph.D Anatomy"
+            },
+            {
+              "id": 3,
+              "course": "Postgraduate Diploma in Anatomical Sciences"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Biochemistry",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Phil/Ph.D Biochemistry"
+            },
+            {
+              "id": 2,
+              "course": "M.Sc Biochemistry with specialisation in Environmental"
+            },
+            {
+              "id": 3,
+              "course": "M.Sc Biochemistry with specialisation in Industrial"
+            },
+            {
+              "id": 4,
+              "course": "M.Sc Biochemistry with specialisation in Medical"
+            },
+            {
+              "id": 5,
+              "course": "M.Sc Biochemistry with specialisation in Nutrition"
+            },
+            {
+              "id": 6,
+              "course": "M.Sc Biochemistry with specialisation in Toxicology"
+            },
+            {
+              "id": 7,
+              "course": "M.Sc Biotechnology"
+            },
+            {
+              "id": 8,
+              "course": "M.Sc. Public Health Nutrition and Policy"
+            },
+            {
+              "id": 9,
+              "course": "Ph.D Biochemistry"
+            },
+            {
+              "id": 10,
+              "course": "Postgraduate Diploma in Biotechnology"
+            },
+            {
+              "id": 11,
+              "course": "Postgraduate Diploma in Medical Biochemistry [PGDMBC]"
+            },
+            {
+              "id": 12,
+              "course": "Postgraduate Diploma in Nutrition and Dietetics [PGDND]"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Physiology",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Phil/Ph.D Human Physiology"
+            },
+            {
+              "id": 2,
+              "course": "M.Sc Human Physiology"
+            },
+            {
+              "id": 3,
+              "course": "Ph.D Human Physiology"
+            },
+            {
+              "id": 4,
+              "course": "Postgraduate Diploma in Human Physiology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Faculty": "FACULTY OF CLINICAL SCIENCES",
+      "departments": [
+        {
+          "title": "Department Of Community Medicine",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Sc Global Health and Policy"
+            },
+            {
+              "id": 2,
+              "course": "M.Sc Public Health"
+            },
+            {
+              "id": 3,
+              "course": "Masters in Public Health with specialisation in Child and Adolescent Health"
+            },
+            {
+              "id": 4,
+              "course": "Masters in Public Health with specialisation in Community Medicine"
+            },
+            {
+              "id": 5,
+              "course": "Masters in Public Health with specialisation in Health Promotion"
+            },
+            {
+              "id": 6,
+              "course": "Masters in Public Health with specialisation in Occupational and Environmental Health"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Medical Microbiology And Parasitology",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Phil/Ph.D Medical Microbiology with specialisation in Bacteriology"
+            },
+            {
+              "id": 2,
+              "course": "M.Phil/Ph.D Medical Microbiology with specialisation in Immunology"
+            },
+            {
+              "id": 3,
+              "course": "M.Phil/Ph.D Medical Microbiology with specialisation in Mycology"
+            },
+            {
+              "id": 4,
+              "course": "M.Phil/Ph.D Medical Microbiology with specialisation in Parasitology"
+            },
+            {
+              "id": 5,
+              "course": "M.Phil/Ph.D Medical Microbiology with specialisation in Virology"
+            },
+            {
+              "id": 6,
+              "course": "M.Sc Medical Microbiology with specialisation in Bacteriology"
+            },
+            {
+              "id": 7,
+              "course": "M.Sc Medical Microbiology with specialisation in Immunology"
+            },
+            {
+              "id": 8,
+              "course": "M.Sc Medical Microbiology with specialisation in Mycology"
+            },
+            {
+              "id": 9,
+              "course": "M.Sc Medical Microbiology with specialisation in Parasitology"
+            },
+            {
+              "id": 10,
+              "course": "M.Sc Medical Microbiology with specialisation in Virology"
+            },
+            {
+              "id": 11,
+              "course": "Masters in Infection Prevention and Control [MIPC]"
+            },
+            {
+              "id": 12,
+              "course": "Ph.D Medical Microbiology with specialisation in Bacteriology"
+            },
+            {
+              "id": 13,
+              "course": "Ph.D Medical Microbiology with specialisation in Immunology"
+            },
+            {
+              "id": 14,
+              "course": "Ph.D Medical Microbiology with specialisation in Mycology"
+            },
+            {
+              "id": 15,
+              "course": "Ph.D Medical Microbiology with specialisation in Parasitology"
+            },
+            {
+              "id": 16,
+              "course": "Ph.D Medical Microbiology with specialisation in Virology"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Obstetrics And Gynaecology",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Sc Human Reproduction"
+            },
+            {
+              "id": 2,
+              "course": "M.Sc Maternal Child Health and Policy"
+            },
+            {
+              "id": 3,
+              "course": "Masters in Reproductive Health [MRH]"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Otorhinolaryngology",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Sc Otorhinolaryngology"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Psychiatry",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Sc Public Mental Health and Policy"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Radiology",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Sc Radiology"
+            },
+            {
+              "id": 2,
+              "course": "Ph.D Radiology"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Surgery",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Sc. Surgical Sciences"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Faculty": "FACULTY OF COMMUNICATION",
+      "departments": [
+        {
+          "title": "Department Of Mass Communications",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Phil/Ph.D Mass Communication"
+            },
+            {
+              "id": 2,
+              "course": "M.Sc Mass Communications"
+            },
+            {
+              "id": 3,
+              "course": "Masters in Communication Studies [MCS]"
+            },
+            {
+              "id": 4,
+              "course": "Masters in Public Relations [MPR]"
+            },
+            {
+              "id": 5,
+              "course": "Ph.D Mass Communication"
+            },
+            {
+              "id": 6,
+              "course": "Postgraduate Diploma in Mass Communication [PGDMC]"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Theatre And Performing Arts",
+          "courses": [
+            {
+              "id": 1,
+              "course": "Postgraduate Diploma in Theatre Studies [ PGDTS]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Faculty": "FACULTY OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY",
+      "departments": [
+        {
+          "title": "Department Of Computer Science",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Sc Computer Science"
+            },
+            {
+              "id": 2,
+              "course": "Masters in Computer Applications [MCA]"
+            },
+            {
+              "id": 3,
+              "course": "Ph.D Computer Science"
+            },
+            {
+              "id": 4,
+              "course": "Postgraduate Diploma in Computer Science [PGDCS]"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Information Technology",
+          "courses": [
+            {
+              "id": 1,
+              "course": "Masters in Cyber Security"
+            },
+            {
+              "id": 2,
+              "course": "Masters in Information and Communication Technology [MICT]"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Software Engineering",
+          "courses": [
+            {
+              "id": 1,
+              "course": "Masters in Software Engineering"
+            },
+            {
+              "id": 2,
+              "course": "Postgraduate Diploma in Computer Applications"
+            },
+            {
+              "id": 3,
+              "course": "Postgraduate Diploma in Mobile Application Development"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Faculty": "FACULTY OF EARTH AND ENVIRONMENTAL SCIENCE",
+      "departments": [
+        {
+          "title": "Department Of Architecture",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Sc. Architecture"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Environmental Management",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Phil/Ph.D Environmental Management"
+            },
+            {
+              "id": 2,
+              "course": "M.Sc Environmental Management"
+            },
+            {
+              "id": 3,
+              "course": "Masters in Environmental Management [MEM]"
+            },
+            {
+              "id": 4,
+              "course": "Ph.D Environmental Management"
+            },
+            {
+              "id": 5,
+              "course": "Postgraduate Diploma in Environmental Management [PGDEM]"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Geography",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Phil/Ph.D Geography (Human Geography)"
+            },
+            {
+              "id": 2,
+              "course": "M.Phil/Ph.D Geography (Physical Geography)"
+            },
+            {
+              "id": 3,
+              "course": "M.Phil/Ph.D Geography (Population and Development)"
+            },
+            {
+              "id": 4,
+              "course": "M.Phil/Ph.D Land Resource (Administration)"
+            },
+            {
+              "id": 5,
+              "course": "M.Phil/Ph.D Land Resource (Development)"
+            },
+            {
+              "id": 6,
+              "course": "M.Phil/Ph.D Natural Resource Management and Climate Change"
+            },
+            {
+              "id": 7,
+              "course": "M.Sc Geography (Human Geography)"
+            },
+            {
+              "id": 8,
+              "course": "M.Sc Geography (Physical Geography)"
+            },
+            {
+              "id": 9,
+              "course": "M.Sc Geography (Population and Development)"
+            },
+            {
+              "id": 10,
+              "course": "M.Sc Land Resources (Land Administration)"
+            },
+            {
+              "id": 11,
+              "course": "M.Sc Land Resources (Land Development)"
+            },
+            {
+              "id": 12,
+              "course": "M.Sc. Natural Resource Management and Climate Change"
+            },
+            {
+              "id": 13,
+              "course": "Masters in Geographic Information System [MGIS]"
+            },
+            {
+              "id": 14,
+              "course": "Ph.D Geography (Human Geography)"
+            },
+            {
+              "id": 15,
+              "course": "Ph.D Geography (Physical Geography)"
+            },
+            {
+              "id": 16,
+              "course": "Ph.D Geography (Population and Development)"
+            },
+            {
+              "id": 17,
+              "course": "Ph.D Land Resource (Administration)"
+            },
+            {
+              "id": 18,
+              "course": "Ph.D Land Resource (Development)"
+            },
+            {
+              "id": 19,
+              "course": "Ph.D Natural Resource Management and Climate Change"
+            },
+            {
+              "id": 20,
+              "course": "Postgraduate Diploma in Land Administration [PGDLA]"
+            }
+          ]
+        },
+        {
+          "title": "Department Of Geology",
+          "courses": [
+            {
+              "id": 1,
+              "course": "M.Sc. Applied Geophysics"
+            },
+            {
+              "id": 2,
+              "course": "M.Sc. Hydrogeology and Environmental Geology"
+            },
+            {
+              "id": 3,
+              "course": "M.Sc. Petroleum Geosciences"
+            },
+            {
+              "id": 4,
+              "course": "PhD Applied Geophysics"
+            },
+            {
+              "id": 5,
+              "course": "PhD Hydrogeology and Environmental Geology"
+            },
+            {
+              "id": 6,
+              "course": "PhD Petroleum Geosciences"
+            },
+            {
+              "id": 7,
+              "course": "Postgraduate Diploma in Geology"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "programmesCOM": [
+    {
+      "title": "1. Faculty of Agriculture",
+      "items": [
+        {
+          "num": 1,
+          "td1": "B. Agric Economics and Extension",
+          "td2": 180
+        },
+        {
+          "num": 2,
+          "td1": "B. Agriculture",
+          "td2": 180
+        },
+        {
+          "num": 3,
+          "td1": "B. Fisheries and Aquaculture",
+          "td2": 180
+        },
+        {
+          "num": 4,
+          "td1": "B. Food Science and Technology",
+          "td2": 180
+        },
+        {
+          "num": 5,
+          "td1": "B. Forestry and Wildlife Management",
+          "td2": 180
+        }
+      ]
+    },
+    {
+      "title": "2. Faculty of Allied Health Sciences",
+      "items": [
+        {
+          "num": 1,
+          "td1": "B. Environmental Health Science",
+          "td2": 200
+        },
+        {
+          "num": 2,
+          "td1": "B. Medical Laboratory Science",
+          "td2": 230
+        },
+        {
+          "num": 3,
+          "td1": "B. Nursing",
+          "td2": 230
+        },
+        {
+          "num": 4,
+          "td1": "B. Physiotherapy",
+          "td2": 220
+        },
+        {
+          "num": 5,
+          "td1": "B. Radiography",
+          "td2": 220
+        },
+        {
+          "num": 6,
+          "td1": "Doctor of Optometry",
+          "td2": 220
+        }
+      ]
+    },
+    {
+      "title": "3. Faculty of Arts And Islamic Studies",
+      "items": [
+        {
+          "num": 1,
+          "td1": "B.A. ARABIC",
+          "td2": 180
+        },
+        {
+          "num": 2,
+          "td1": "B.A. ENGLISH",
+          "td2": 180
+        },
+        {
+          "num": 3,
+          "td1": "B.A. FRENCH",
+          "td2": 180
+        },
+        {
+          "num": 4,
+          "td1": "B.A. HAUSA",
+          "td2": 180
+        },
+        {
+          "num": 5,
+          "td1": "B.A. HISTORY",
+          "td2": 180
+        },
+        {
+          "num": 6,
+          "td1": "B.A. ISLAMIC STUDIES",
+          "td2": 180
+        },
+        {
+          "num": 7,
+          "td1": "B.A. Linguistics",
+          "td2": 180
+        },
+        {
+          "num": 8,
+          "td1": "B.A. Sharia",
+          "td2": 180
+        }
+      ]
+    },
+    {
+      "title": "4. Faculty of Basic Medical Sciences",
+      "items": [
+        {
+          "num": 1,
+          "td1": "B.Sc. Anatomy",
+          "td2": 180
+        },
+        {
+          "num": 2,
+          "td1": "B.Sc. Biochemistry",
+          "td2": 180
+        },
+        {
+          "num": 3,
+          "td1": "B.Sc. Human Physiology",
+          "td2": 180
+        },
+        {
+          "num": 4,
+          "td1": "B.Sc. Nutrition and Dietetics",
+          "td2": 180
+        }
+      ]
+    },
+    {
+      "title": "5. Faculty of Clinical Sciences",
+      "items": [
+        {
+          "num": 1,
+          "td1": "MBBS",
+          "td2": 240
+        }
+      ]
+    },
+    {
+      "title": "6. Faculty of Communication",
+      "items": [
+        {
+          "num": 1,
+          "td1": "B.A. Theatre and Performing Arts",
+          "td2": 180
+        },
+        {
+          "num": 2,
+          "td1": "B.Sc. Information and Media Studies",
+          "td2": 180
+        },
+        {
+          "num": 3,
+          "td1": "B.Sc. Mass Communication",
+          "td2": 200
+        }
+      ]
+    },
+    {
+      "title": "7. Faculty of Computer Science and Information Technology",
+      "items": [
+        {
+          "num": 1,
+          "td1": "B.Sc. Computer Science",
+          "td2": 190
+        },
+        {
+          "num": 2,
+          "td1": "B.Sc. Cyber Security",
+          "td2": 180
+        },
+        {
+          "num": 3,
+          "td1": "B.Sc. Information Technology",
+          "td2": 180
+        },
+        {
+          "num": 4,
+          "td1": "B.Sc. Software Engineering",
+          "td2": 180
+        }
+      ]
+    },
+    {
+      "title": "8. Faculty of Dentistry",
+      "items": [
+        {
+          "num": 1,
+          "td1": "B. Dentistry/Dental Surgery",
+          "td2": 240
+        }
+      ]
+    },
+    {
+      "title": "9. Faculty of Earth and Environmental Sciences",
+      "items": [
+        {
+          "num": 1,
+          "td1": "B. Urban and Regional Planning",
+          "td2": 180
+        },
+        {
+          "num": 2,
+          "td1": "B.Sc. Architecture",
+          "td2": 180
+        },
+        {
+          "num": 3,
+          "td1": "B.Sc. Environmental Management",
+          "td2": 180
+        },
+        {
+          "num": 4,
+          "td1": "B.Sc. Estate Management",
+          "td2": 180
+        },
+        {
+          "num": 5,
+          "td1": "B.Sc. Geography",
+          "td2": 180
+        },
+        {
+          "num": 6,
+          "td1": "B.Sc. Geology",
+          "td2": 180
+        },
+        {
+          "num": 7,
+          "td1": "B.Sc. Meteorology",
+          "td2": 180
+        },
+        {
+          "num": 8,
+          "td1": "B.Sc. Quantity Surveying",
+          "td2": 180
+        }
+      ]
+    },
+    {
+      "title": "10. Faculty of Education",
+      "items": [
+        {
+          "num": 1,
+          "td1": "B.A. (Ed) Adult Education and Community Services",
+          "td2": 180
+        },
+        {
+          "num": 2,
+          "td1": "B.A. (Ed) Arabic",
+          "td2": 180
+        },
+        {
+          "num": 3,
+          "td1": "B.A. (Ed) Early Childhood Education",
+          "td2": 180
+        },
+        {
+          "num": 4,
+          "td1": "B.A. (Ed) Economics",
+          "td2": 180
+        },
+        {
+          "num": 5,
+          "td1": "B.A. (Ed) English",
+          "td2": 180
+        },
+        {
+          "num": 6,
+          "td1": "B.A. (Ed) French",
+          "td2": 180
+        },
+        {
+          "num": 7,
+          "td1": "B.A. (Ed) Hausa",
+          "td2": 180
+        },
+        {
+          "num": 8,
+          "td1": "B.A. (Ed) History",
+          "td2": 180
+        },
+        {
+          "num": 9,
+          "td1": "B.A. (Ed) Islamic Studies",
+          "td2": 180
+        },
+        {
+          "num": 10,
+          "td1": "B.A. (Ed) Primary Education",
+          "td2": 180
+        },
+        {
+          "num": 11,
+          "td1": "B.A. (Ed) Special Education",
+          "td2": 180
+        },
+        {
+          "num": 12,
+          "td1": "B.Sc. (Ed) Agriculture",
+          "td2": 180
+        },
+        {
+          "num": 13,
+          "td1": "B.A. (Ed) Biology",
+          "td2": 180
+        },
+        {
+          "num": 14,
+          "td1": "B.A. (Ed) Geography",
+          "td2": 180
+        },
+        {
+          "num": 15,
+          "td1": "B.A. (Ed) Health Education",
+          "td2": 180
+        },
+        {
+          "num": 16,
+          "td1": "B.A. (Ed) Mathematics",
+          "td2": 180
+        },
+        {
+          "num": 17,
+          "td1": "B.A. (Ed) Physical and Health Education",
+          "td2": 180
+        },
+        {
+          "num": 18,
+          "td1": "B.A. (Ed) Physical Education",
+          "td2": 180
+        },
+        {
+          "num": 19,
+          "td1": "B.A. (Ed) Physics",
+          "td2": 180
+        },
+        {
+          "num": 20,
+          "td1": "B.Sc. Library and Information Science",
+          "td2": 180
+        },
+        {
+          "num": 21,
+          "td1": "B.A. (Ed) Chemistry",
+          "td2": 180
+        }
+      ]
+    },
+    {
+      "title": "11. Faculty of Engineering",
+      "items": [
+        {
+          "num": 1,
+          "td1": "B.Eng. Agricultural Engineering",
+          "td2": 180
+        },
+        {
+          "num": 2,
+          "td1": "B.Eng. Automotive Engineering",
+          "td2": 180
+        },
+        {
+          "num": 3,
+          "td1": "B.Eng. Chemical Engineering",
+          "td2": 180
+        },
+        {
+          "num": 4,
+          "td1": "B.Eng. Civil Engineering",
+          "td2": 190
+        },
+        {
+          "num": 5,
+          "td1": "B.Eng. Computer Engineering",
+          "td2": 180
+        },
+        {
+          "num": 6,
+          "td1": "B.Eng. Electrical Engineering",
+          "td2": 180
+        },
+        {
+          "num": 7,
+          "td1": "B.Eng. Mechanical Engineering",
+          "td2": 180
+        },
+        {
+          "num": 8,
+          "td1": "B.Eng. Mechatronics Engineering",
+          "td2": 180
+        },
+        {
+          "num": 9,
+          "td1": "B.Eng. Petroleum Engineering",
+          "td2": 180
+        },
+        {
+          "num": 10,
+          "td1": "B.Eng. Telecommunication Engineering",
+          "td2": 180
+        }
+      ]
+    },
+    {
+      "title": "12. Faculty of Law",
+      "items": [
+        {
+          "num": 1,
+          "td1": "LL.B.",
+          "td2": 200
+        }
+      ]
+    },
+    {
+      "title": "13. Faculty of Life Sciences",
+      "items": [
+        {
+          "num": 1,
+          "td1": "B.Sc. Applied Biology",
+          "td2": 180
+        },
+        {
+          "num": 2,
+          "td1": "B.Sc. Botany",
+          "td2": 180
+        },
+        {
+          "num": 3,
+          "td1": "B.Sc. Microbiology",
+          "td2": 180
+        },
+        {
+          "num": 4,
+          "td1": "B.Sc. Zoology",
+          "td2": 180
+        }
+      ]
+    },
+    {
+      "title": "14. Faculty of Management Sciences",
+      "items": [
+        {
+          "num": 1,
+          "td1": "B.Sc. Accounting",
+          "td2": 180
+        },
+        {
+          "num": 2,
+          "td1": "B.Sc. Banking and Finance",
+          "td2": 180
+        },
+        {
+          "num": 3,
+          "td1": "B.Sc. Business Administration",
+          "td2": 180
+        },
+        {
+          "num": 4,
+          "td1": "B.Sc. Entrepreneur",
+          "td2": 180
+        },
+        {
+          "num": 5,
+          "td1": "B.Sc. Public Administration",
+          "td2": 180
+        },
+        {
+          "num": 6,
+          "td1": "B.Sc. Taxation",
+          "td2": 180
+        }
+      ]
+    },
+    {
+      "title": "15. Faculty of Pharmaceutical Sciences",
+      "items": [
+        {
+          "num": 1,
+          "td1": "Doctor Of Pharmacy",
+          "td2": 230
+        }
+      ]
+    },
+    {
+      "title": "16. Faculty of Physical Sciences",
+      "items": [
+        {
+          "num": 1,
+          "td1": "B.Sc. Chemistry",
+          "td2": 180
+        },
+        {
+          "num": 2,
+          "td1": "B.Sc. Physics",
+          "td2": 180
+        },
+        {
+          "num": 3,
+          "td1": "B.Sc. Statistics",
+          "td2": 180
+        },
+        {
+          "num": 4,
+          "td1": "B.Sc. Electronics with Physics",
+          "td2": 180
+        },
+        {
+          "num": 5,
+          "td1": "B.Sc. Forensic Science",
+          "td2": 180
+        },
+        {
+          "num": 6,
+          "td1": "Mathematics",
+          "td2": 180
+        },
+        {
+          "num": 7,
+          "td1": "B.Sc. Industrial Chemistry",
+          "td2": 180
+        }
+      ]
+    },
+    {
+      "title": "17. Faculty of Social Sciences",
+      "items": [
+        {
+          "num": 1,
+          "td1": "B.Sc. Criminology",
+          "td2": 180
+        },
+        {
+          "num": 2,
+          "td1": "B.Sc. Economics",
+          "td2": 180
+        },
+        {
+          "num": 3,
+          "td1": "B.Sc. International Relations",
+          "td2": 180
+        },
+        {
+          "num": 4,
+          "td1": "B.Sc. Political Science",
+          "td2": 180
+        },
+        {
+          "num": 5,
+          "td1": "B.Sc. Sociology",
+          "td2": 180
+        }
+      ]
+    },
+    {
+      "title": "18. Faculty of Veterinary Medicine",
+      "items": [
+        {
+          "num": 1,
+          "td1": "Doctor of Veterinary Medicine",
+          "td2": 220
+        }
+      ]
+    }
+  ],
+  "newStudent": [],
+  "BukatStudentInfo": [
+    {
+      "name": "Yusuf Tukur Abdulkadir",
+      "gender": "Male",
+      "state": "Kano State",
+      "jambNo": "856023GH",
+      "utmeInfo": {
+        "utmeScore": "200",
+        "math": "50",
+        "english": "40",
+        "thirdSubject": "50",
+        "fourthSubject": "60"
+      },
+      "AppliedProgramme": "B.Sc. Geography",
+      "dateOfBirth": "02/03/1998",
+      "localGovernment": "Dala",
+      "phoneNo": "08012345678",
+      "altPhone": "",
+      "email": "user1@gmail.com",
+      "altEmail": "",
+      "nextOfKin": "Sani Tukur",
+      "nokPhone": "",
+      "olevelResult": {
+        "examType": "NECO",
+        "school": "GSS Danbatta",
+        "examNo": "EES/18/GEO/00319",
+        "year": "2016",
+        "subjects": [
+          {
+            "Subject1": "Mathematics",
+            "grade": "A1"
+          },
+          {
+            "subject2": "English",
+            "grade": "A1"
+          },
+          {
+            "subject3": "Geography",
+            "grade": "A1"
+          },
+          {
+            "subject4": "Physics",
+            "grade": "A1"
+          },
+          {
+            "subject5": "Chemistry",
+            "grade": "A1"
+          },
+          {
+            "subject6": "Biology",
+            "grade": "A1"
+          },
+          {
+            "subject7": "Computer Science",
+            "grade": "A1"
+          },
+          {
+            "subject8": "Islamic Studies",
+            "grade": "A1"
+          },
+          {
+            "subject9": "Fishery",
+            "grade": "A1"
+          }
+        ]
+      },
+      "id": 1
+    },
+    {
+      "name": "Sani Tukur",
+      "gender": "Male",
+      "state": "Kano State",
+      "jambNo": "123456GH",
+      "utmeInfo": {
+        "utmeScore": "180",
+        "math": "40",
+        "english": "40",
+        "thirdSubject": "50",
+        "fourthSubject": "50"
+      },
+      "AppliedProgramme": "B.Sc. Computer Science",
+      "dateOfBirth": "01/01/2000",
+      "localGovernment": "",
+      "phoneNo": "08023456789",
+      "altPhone": "",
+      "email": "me@gmail.com",
+      "altEmail": "",
+      "nextOfKin": "yusuffabdulkadir30@gmail.com",
+      "nokPhone": "",
+      "olevelResult": {
+        "examType": "WAEC",
+        "school": "GSS Danbatta",
+        "examNo": "123456777",
+        "year": "2018",
+        "subjects": [
+          {
+            "Subject1": "Mathematics",
+            "grade": "C5"
+          },
+          {
+            "subject2": "English",
+            "grade": "C5"
+          },
+          {
+            "subject3": "Geography",
+            "grade": "C5"
+          },
+          {
+            "subject4": "Chemistry",
+            "grade": "C5"
+          },
+          {
+            "subject5": "Physics",
+            "grade": "C5"
+          },
+          {
+            "subject6": "Islamic Studies",
+            "grade": "C5"
+          },
+          {
+            "subject7": "Computer Science",
+            "grade": "C5"
+          },
+          {
+            "subject8": "Civic Education",
+            "grade": "C5"
+          },
+          {
+            "subject9": "Biology",
+            "grade": "C5"
+          }
+        ]
+      },
+      "id": 2
+    }
+  ]
+}
